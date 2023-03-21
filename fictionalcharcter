@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ficitonal Character</title>
+        <meta charset="UTF-8">
+        <link rel = "stylesheet" href = "style.css"> 
+    </head>
+    <body>
+        <iframe class = "makebigger" src="https://giphy.com/embed/10Yw4Gu206Term" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-incredibles-no-superheros-10Yw4Gu206Term"></a></p>
+        <a href = "index.html">Click Me!</a>
+        <p>Edna from the incredibles.</p>
+    </body>
+</html>
