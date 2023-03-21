@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel = "stylesheet" href = "style.css">
+</head>
+<body class = "alignbody">
+    <h1 id = "main-title">Hello World</h1>
+    <p class = "content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab sint consectetur officiis? 
+        Culpa enim error debitis nisi fugit blanditiis nostrum harum nesciunt quibusdam cum quidem commodi atque, 
+        labore dolores exercitationem vel pariatur est voluptas, dolore ex. Quibusdam sunt asperiores quo! Quaerat, 
+        mollitia sit. Ea dicta maiores nisi similique!</p>
+
+    <p class = "content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, illo doloremque veniam beatae asperiores error aut eius 
+        distinctio modi corporis illum cupiditate quo, officiis blanditiis necessitatibus voluptas eum reprehenderit labore, quisquam 
+        assumenda repellat quidem! Possimus sit ratione vitae facere dolore tenetur dolorem.</p>
+
+    <p><a href = "index.html">Go back to the homepage!</a></p>
+
+</body>
+</html>
