@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Motivational</title>
+        <meta charset="UTF-8">
+        <link rel = "stylesheet" href = "style.css">
+        <style>
+            .motivationstyle {
+                font-weight: bolder;
+                background-color: lightblue;
+                border: 3px solid navy;
+                padding: 10px;
+                padding-left: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <div class = "motivationstyle">Education is the most powerful weapon which you can use to change the world. — Nelson Mandela</div>
+        <!-- Remeber to go back and add in line styles... Finsihed this task through external stylesheet -->
+        <p><a href = "index.html">Go back to the homepage!</a></p>
+    </body>
+</html>
