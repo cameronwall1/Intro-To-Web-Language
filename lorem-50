@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dummy text</title>
+    <style>
+        p {
+            color: white;
+        }
+        p:nth-child(even) {
+            background-color: black;
+        }
+        p:nth-child(odd) {
+            background-color: red;
+        }
+        
+    </style>
+</head>
+<body>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium, quaerat eveniet nisi quae pariatur provident voluptate, ipsam reprehenderit nihil blanditiis omnis quam ipsa expedita maiores deserunt id repudiandae, nesciunt a recusandae perferendis fugiat enim praesentium! Sint delectus quasi mollitia, nobis nihil saepe iste eos dignissimos!</p>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque aperiam assumenda illo saepe exercitationem ad hic tempore voluptas deserunt autem? Eaque aut hic quod maxime. Molestias vero sunt eos aperiam illum deserunt fugit ullam. Fugiat?</p>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem laudantium rerum dicta voluptatibus culpa itaque provident dolores? Qui, consequatur debitis iste sunt nam praesentium dolor reiciendis eaque optio ut, nulla animi consectetur maiores sit unde alias sapiente voluptatibus!</p>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim ex aliquam quidem fuga dignissimos, nostrum hic voluptatum nemo facilis et! Voluptas illo rerum assumenda nemo, minus sequi sunt, earum amet molestias autem accusantium atque dicta fuga modi enim. Suscipit, neque.</p>
+
+    <a href = "index.html">Click Me To Return To Index!<a>
+</body>
+</html>
