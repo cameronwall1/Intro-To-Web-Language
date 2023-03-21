@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>About Page</h2>
+    <p><a href = "index.html">Go back to the homepage!</a></p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto deleniti amet quibusdam temporibus ut quam adipisci 
+        aliquam saepe aut excepturi? Autem porro minus consectetur qui impedit, necessitatibus quod similique facilis aliquam ipsa. 
+        Cumque saepe natus, cum earum rerum quis accusantium quam itaque voluptates.</p>
+</body>
+</html>
